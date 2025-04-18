@@ -18,7 +18,7 @@
 
 <!-- Wakatime badge - https://wakatime.com -->
 
-[![wakatime](https://wakatime.com/badge/user/ddc55c54-5b43-4abf-ac5d-999ee1b4fab0.svg)](https://wakatime.com/@ddc55c54-5b43-4abf-ac5d-999ee1b4fab0)
+[![wakatime](https://wakatime.com/badge/user/890828b4-8315-4043-8b01-51f9609060a2.svg)](https://wakatime.com/@890828b4-8315-4043-8b01-51f9609060a2)
 
 <!-- Socials Links -->
 <h3 align="center">Connect With Me</h3>
