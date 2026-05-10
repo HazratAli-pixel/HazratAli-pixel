@@ -1,17 +1,14 @@
 <h1 align="center">Hi <img src="/assets/hello.gif" alt="Hello gif" width="30"/>, I'm Hazrat Ali</h1>
 
-<!-- <h3 align="center">A passionate Web developer from Bangladesh <img src="/assets/bangladesh.png" alt="Bangladesh national flag" width="24"/></h3> -->
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/HazratAli-pixel">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=F74E88&center=true&width=435&lines=A+passionate+Web+developer;Always+learning+new+things;2+years+of+experience" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=F74E88&center=true&width=435&lines=A+passionate+Web+developer;Always+learning+new+things;3+years+of+experience" />
   </a>
 </p>
 
 <br/>
 
-<!-- Profile visitor by antonkomarev - https://github.com/antonkomarev/github-profile-views-counter -->
+
 <a href="https://komarev.com/ghpvc/?username=HazratAli-pixel">
   <img align="right" src="https://komarev.com/ghpvc/?username=HazratAli-pixel&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -50,7 +47,6 @@
 ✌️ &emsp;I enjoy programming and sharing knowledge <br/><br/>
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
 📧 &emsp;How to reach me: hazrat369ali@gmail.com<br/><br/>
-💬 &emsp;Ask me about anything [here](https://hazrat.ckams.com/#arrival-contact)
 
 <!-- 💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/> -->
 <!-- ⚡ &emsp;Fun fact: I love to Explore the world<br/><br/> -->
