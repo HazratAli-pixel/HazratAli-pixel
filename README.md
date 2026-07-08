@@ -85,6 +85,9 @@
 
 <!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
+<figure><embed src="https://wakatime.com/share/@hazratAli/a5ba6238-40a7-4017-8346-2e74b14f27d4.svg"></embed></figure>
+
+
 [![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HazratAli-pixel&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/HazratAli-pixel)
 
 <!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
