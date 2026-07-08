@@ -48,10 +48,7 @@
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
 📧 &emsp;How to reach me: hazrat369ali@gmail.com<br/><br/>
 
-<!-- 💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/> -->
-<!-- ⚡ &emsp;Fun fact: I love to Explore the world<br/><br/> -->
-<!-- ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) -->
-<!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) -->
+
 <p><br/></p>
 
 ### Things I code with
@@ -77,20 +74,16 @@
 
 <br/>
 
-<!-- fadsfs -->
-<!-- Github stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats -->
-
-| <a href="https://github.com/HazratAli-pixel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HazratAli-pixel&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=radical&bg_color=1F222E" alt="Github stats" /></a> | <a href="https://github.com/HazratAli-pixel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazratAli-pixel&layout=compact&hide_border=true&theme=radical&bg_color=1F222E" alt="Top Langs" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-<!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
-
-<figure><embed src="https://wakatime.com/share/@hazratAli/a5ba6238-40a7-4017-8346-2e74b14f27d4.svg"></embed></figure>
 
 
-[![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HazratAli-pixel&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/HazratAli-pixel)
+<p align="center" >
+  <a href="[https://github.com/HazratAli-pixel](https://wakatime.com/share/@hazratAli/a5ba6238-40a7-4017-8346-2e74b14f27d4.svg)">
+    <img src="https://wakatime.com/share/@hazratAli/a5ba6238-40a7-4017-8346-2e74b14f27d4.svg" height=400 alt="GitHub streak"/>
+  </a>
+</p>
 
-<!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
+
+
 
 <p align="center" >
   <a href="https://github.com/HazratAli-pixel">
