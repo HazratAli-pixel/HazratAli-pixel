@@ -63,36 +63,19 @@ const hazrat = {
 ---
 
 <div align="center">
-
-## ⚡ Tech Stack & Expertise
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider" width="100%"/>
-
-### 「 💻 Languages & Web Foundations 」
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider"/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,html,css&amp;theme=dark" alt="JavaScript, TypeScript, PHP, HTML, and CSS"/>
 
-### 「 ⚛️ Frontend Engineering 」
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux&amp;theme=dark" alt="React, Next.js, Vite, Tailwind CSS, Bootstrap, and Redux"/>
-
-### 「 ⚙️ Backend & Data 」
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,postgres,redis,mongodb&amp;theme=dark" alt="Node.js, Express, GraphQL, Prisma, PostgreSQL, Redis, and MongoDB"/>
-
-### 「 ☁️ Cloud, Testing & Delivery 」
-
 <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,cypress,git,github,vercel,linux&amp;theme=dark" alt="AWS, Cloudflare, Docker, Cypress, Git, GitHub, Vercel, and Linux"/>
 
-### 「 🧠 AI & Intelligent Workflows 」
-
-<p>
   <img src="https://img.shields.io/badge/LLM%20Integration-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="LLM integration"/>
   <img src="https://img.shields.io/badge/RAG-D6A64F?style=for-the-badge&amp;labelColor=06141F" alt="RAG"/>
   <img src="https://img.shields.io/badge/Agent%20Workflows-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="Agent workflows"/>
   <img src="https://img.shields.io/badge/Vector%20Search-D6A64F?style=for-the-badge&amp;labelColor=06141F" alt="Vector search"/>
   <img src="https://img.shields.io/badge/Guardrails%20%26%20Evaluation-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="Guardrails and evaluation"/>
-</p>
 
 </div>
 
@@ -152,7 +135,46 @@ const hazrat = {
 <tr>
 <td width="50%" valign="top">
   <div align="center">
-    <img src="https://img.shields.io/badge/03__BRAND_INTELLIGENCE-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="03 Brand Intelligence"/>
+    <img src="https://img.shields.io/badge/03__JAPANESE_CLIENT_PROJECT-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="03 Japanese Client Project"/>
+    <h3>MoeGuide (モエガイド)</h3>
+    <p><code>Apr 2024 - Oct 2024</code></p>
+    <img src="https://skillicons.dev/icons?i=nextjs,ts&amp;theme=dark" alt="MoeGuide stack"/>
+    <br/>
+    <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&amp;labelColor=06141F" alt="tRPC"/> <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&amp;labelColor=06141F" alt="Pusher"/>
+  </div>
+  <blockquote><strong>Personalized tour-guide platform</strong> for cultural, cosplay, sightseeing, and photo experiences across Tokyo, Kanagawa, and Chiba.</blockquote>
+  <table>
+    <tr><td>✦</td><td>Developed and maintained reliable, type-safe APIs with tRPC</td></tr>
+    <tr><td>✦</td><td>Built real-time chat between guides and users with Pusher</td></tr>
+    <tr><td>✦</td><td>Delivered responsive Next.js interfaces and conducted code reviews</td></tr>
+    <tr><td>✦</td><td>Translated client requirements into clear technical direction as a bridge engineer</td></tr>
+  </table>
+  <br/><div align="center"><img src="https://img.shields.io/badge/PRIVATE_CLIENT_PROJECT-D6A64F?style=for-the-badge&amp;labelColor=06141F" alt="Private Japanese client project"/></div>
+</td>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://img.shields.io/badge/04__JAPANESE_CLIENT_PROJECT-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="04 Japanese Client Project"/>
+    <h3>Suirikyou (水利協)</h3>
+    <p><code>Aug 2023 - Mar 2024</code></p>
+    <img src="https://skillicons.dev/icons?i=nextjs,ts&amp;theme=dark" alt="Suirikyou stack"/>
+    <br/>
+    <img src="https://img.shields.io/badge/MicroCMS-00C08B?style=flat-square&amp;labelColor=06141F" alt="MicroCMS"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&amp;labelColor=06141F&amp;logo=stripe&amp;logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/REST_APIs-087F8C?style=flat-square&amp;labelColor=06141F" alt="REST APIs"/>
+  </div>
+  <blockquote><strong>Certification and compliance platform</strong> for the Japan Water Facilities Environment Hygiene Association.</blockquote>
+  <table>
+    <tr><td>✦</td><td>Integrated and managed dynamic platform content through MicroCMS</td></tr>
+    <tr><td>✦</td><td>Implemented Stripe subscriptions, recurring billing, and access control</td></tr>
+    <tr><td>✦</td><td>Developed responsive Next.js interfaces and RESTful APIs</td></tr>
+    <tr><td>✦</td><td>Aligned technical delivery with client requirements and deadlines</td></tr>
+  </table>
+  <br/><div align="center"><img src="https://img.shields.io/badge/PRIVATE_CLIENT_PROJECT-D6A64F?style=for-the-badge&amp;labelColor=06141F" alt="Private Japanese client project"/></div>
+</td>
+</tr>
+<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider" width="100%"/></td></tr>
+<tr>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://img.shields.io/badge/05__BRAND_INTELLIGENCE-087F8C?style=for-the-badge&amp;labelColor=06141F" alt="05 Brand Intelligence"/>
     <h3>Report Tool</h3>
     <img src="https://skillicons.dev/icons?i=react,ts,cypress&amp;theme=dark" alt="Report Tool stack"/>
   </div>
@@ -198,11 +220,11 @@ const hazrat = {
 
 `Remote - Japan` · `Mar 2023 - May 2025`
 
-- Upgraded production applications with TypeScript, React 19, and Next.js
-- Integrated REST APIs and asynchronous frontend-to-backend data flows
-- Improved performance through lazy loading, Webpack optimization, and efficient state management
-- Used AI-assisted development for debugging, refactoring, and faster feature delivery
-- Supported junior developers through code reviews, technical guidance, and team collaboration
+- Delivered Japanese client platforms including **MoeGuide** and **Suirikyou** with Next.js and TypeScript
+- Developed type-safe tRPC APIs and real-time Pusher chat for guide-to-user communication
+- Integrated MicroCMS content workflows and Stripe subscriptions with recurring billing and access control
+- Built responsive interfaces and REST APIs aligned with Japanese client requirements
+- Conducted code reviews and worked as a bridge engineer, translating requirements into technical direction
 
 ### <img src="https://img.shields.io/badge/2020--2023-CONTENT_WRITER_%26_IT_SUPPORT-087F8C?style=flat-square&amp;labelColor=06141F" alt="Content Writer and IT Support"/> NTV
 
