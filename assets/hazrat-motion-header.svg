@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Hazrat Ali - Full-Stack Developer and JavaScript AI Engineer</title>
+  <desc id="desc">Animated navy, teal, and gold editorial banner with Hazrat Ali typography, orbital lines, and flowing data signals.</desc>
+  <defs>
+    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061725"/><stop offset=".54" stop-color="#081018"/><stop offset="1" stop-color="#020609"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2=".4" y2="1"><stop stop-color="#fff1c7"/><stop offset="1" stop-color="#d6a64f"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#00a896" stop-opacity=".82"/><stop offset=".54" stop-color="#087f8c" stop-opacity=".32"/><stop offset="1" stop-color="#087f8c" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#b9e4dc" stroke-opacity=".055" fill="none"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="400" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#back)"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+    <circle cx="974" cy="204" r="292" fill="url(#aura)"><animate attributeName="opacity" values=".56;1;.56" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="976" cy="200" r="164" fill="none" stroke="#74d3c5" stroke-opacity=".34"/>
+    <circle cx="976" cy="200" r="135" fill="none" stroke="#e6bd69" stroke-opacity=".19" stroke-dasharray="9 13"><animateTransform attributeName="transform" type="rotate" from="0 976 200" to="360 976 200" dur="55s" repeatCount="indefinite"/></circle>
+    <circle cx="976" cy="200" r="108" fill="none" stroke="#8de0d3" stroke-opacity=".28" stroke-dasharray="1 18"><animateTransform attributeName="transform" type="rotate" from="360 976 200" to="0 976 200" dur="36s" repeatCount="indefinite"/></circle>
+    <circle cx="976" cy="200" r="87" fill="#087f8c" fill-opacity=".2"/>
+    <path d="M976 40V359M817 200H1136" stroke="#a8d8cf" stroke-opacity=".18"/>
+    <path d="M35 35H1165V365H35Z" stroke="#d8b666" stroke-opacity=".26" fill="none"/>
+    <path d="M65 66H186M65 331H186M1026 331H1135" stroke="#16b8a6" stroke-width="2"/>
+    <text x="65" y="92" font-family="Arial,Helvetica,sans-serif" letter-spacing="4" font-size="15" font-weight="700" fill="#8fd7cb">PERSONAL ENGINEERING STUDIO   /   2026</text>
+    <text x="65" y="172" font-family="Arial Narrow,Impact,Arial,sans-serif" font-size="61" letter-spacing="2" font-weight="900" fill="#e7f6f2">FULL-STACK ENGINEER</text>
+    <text x="61" y="301" font-family="Georgia,'Times New Roman',serif" font-size="130" letter-spacing="-8" fill="url(#gold)">HAZRAT<tspan fill="#20b8a6">.</tspan></text>
+    <text x="67" y="341" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3.1" font-weight="700" fill="#a9d9d1">JAVASCRIPT AI   /   BACKEND   /   CLOUD DELIVERY</text>
+    <text x="976" y="245" text-anchor="middle" font-family="Georgia,serif" font-size="142" fill="#f2d88d">H</text>
+    <text x="976" y="331" text-anchor="middle" font-family="Georgia,serif" font-size="17" font-style="italic" letter-spacing="1" fill="#ccebe5">Reliable systems. Useful products.</text>
+    <path d="M65 111H650" stroke="#d5eee9" stroke-opacity=".18"/>
+    <path d="M65 111H195" stroke="#20b8a6" stroke-width="2"><animate attributeName="d" values="M65 111H126;M65 111H650;M65 111H126" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;1;.5" dur="8s" repeatCount="indefinite"/></path>
+    <g fill="#e3bb63"><circle cx="815" cy="200" r="4"><animate attributeName="opacity" values=".15;1;.15" dur="3s" repeatCount="indefinite"/></circle><circle cx="1137" cy="200" r="3"><animate attributeName="opacity" values="1;.16;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="976" cy="36" r="3"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle></g>
+    <text x="1135" y="78" font-family="Arial,sans-serif" text-anchor="end" font-size="11" font-weight="700" letter-spacing="2" fill="#b8e6de">●  CURRENTLY BUILDING</text>
+  </g>
+</svg>

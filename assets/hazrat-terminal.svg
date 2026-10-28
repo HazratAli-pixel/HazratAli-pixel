@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="206" viewBox="0 0 1080 206" role="img" aria-label="Animated terminal dashboard showing full-stack, AI, and cloud engineering activity">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#071a27"/><stop offset=".6" stop-color="#070e14"/><stop offset="1" stop-color="#08262b"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#087f8c"/><stop offset=".6" stop-color="#e0b75e"/><stop offset="1" stop-color="#07535d"/></linearGradient></defs>
+  <rect x="1" y="1" width="1078" height="204" rx="12" fill="url(#bg)" stroke="#168d86" stroke-opacity=".65"/>
+  <path d="M1 39H1079" stroke="#168d86" stroke-opacity=".56"/>
+  <circle cx="23" cy="20" r="5" fill="#d06464"/><circle cx="41" cy="20" r="5" fill="#dfb35d"/><circle cx="59" cy="20" r="5" fill="#58b998"/>
+  <text x="84" y="25" font-family="monospace" font-size="13" fill="#9dc9c2">hazrat@studio: ~/production-systems</text>
+  <circle cx="1011" cy="21" r="5" fill="#e0b75e"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="1024" y="26" font-family="monospace" font-size="12" fill="#cde9e4">LIVE</text>
+  <text x="27" y="74" font-family="monospace" font-size="16" fill="#27c7b4">$</text>
+  <text x="54" y="74" font-family="monospace" font-size="16" fill="#e7f4f1">git status --short</text>
+  <text x="27" y="109" font-family="monospace" font-size="15" fill="#a8cbc5">M  full-stack-platforms.ts</text>
+  <text x="27" y="138" font-family="monospace" font-size="15" fill="#a8cbc5">+  llm-agent-workflows.ts</text>
+  <text x="27" y="167" font-family="monospace" font-size="15" fill="#a8cbc5">+  cloud-delivery.yml</text>
+  <rect x="27" y="186" width="380" height="2" fill="#244047"/><rect x="27" y="186" width="115" height="2" fill="url(#line)"><animate attributeName="x" values="27;297;27" dur="5s" repeatCount="indefinite"/></rect>
+  <path d="M706 66H1039M706 133H1039M706 173H1039" stroke="#27736f" stroke-opacity=".55"/>
+  <text x="711" y="60" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#83c9bf">SHIP</text><text x="711" y="84" font-family="Georgia,serif" font-size="20" fill="#f1d98f">Production platforms</text>
+  <text x="711" y="128" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#83c9bf">AUTOMATE</text><text x="711" y="151" font-family="Georgia,serif" font-size="20" fill="#f1d98f">Reliable workflows</text>
+  <circle cx="1022" cy="77" r="6" fill="#28b8a6"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
