@@ -289,16 +289,6 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com/?user=HazratAli-pixel&amp;theme=dark&amp;hide_border=true&amp;background=06141F&amp;stroke=087F8C&amp;ring=20B8A6&amp;fire=D6A64F&amp;currStreakLabel=F1D790&amp;sideLabels=F1D790&amp;dates=8DB8B1" alt="GitHub contribution streak" width="85%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HazratAli-pixel&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=12&amp;margin-h=12" alt="GitHub trophies" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HazratAli-pixel&amp;custom_title=CONTRIBUTION%20GRAPH&amp;bg_color=06141F&amp;color=F1D790&amp;line=20B8A6&amp;point=FFF1C7&amp;area_color=087F8C&amp;area=true&amp;hide_border=true" alt="GitHub contribution graph" width="100%"/>
-
-<sub>Live widgets are supplied by external services and may occasionally show cached data.</sub>
-
 </div>
 
 ---
